@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MaheshSDK"
-  s.version      = "1.0.0"
+  s.version      = "0.0.1"
   s.summary      = "Sample SDK app for MaheshSDK."
 
   s.description  = "The three-ring is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare."
