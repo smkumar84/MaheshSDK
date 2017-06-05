@@ -28,7 +28,8 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "10.0"
 
-  s.source       = { :git => "https://github.com/smkumar84/MaheshSDK.git", :tag => "#{s.version}" }
+  #s.source       = { :git => "https://github.com/smkumar84/MaheshSDK.git", :tag => "#{s.version}" }
+   s.source       = { :git => "https://github.com/smkumar84/MaheshSDKNew.git", :tag => "1.0.0" }
 
   s.source_files  = "MaheshSDK", "MaheshSDK/**/*.{h,m}"
 
