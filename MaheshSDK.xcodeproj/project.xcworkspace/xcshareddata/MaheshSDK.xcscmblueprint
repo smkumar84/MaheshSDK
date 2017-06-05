@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4A11A55B90FB8883D6FB898A1DF4F06D7040C7E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "897FC997133EBD0DA8DF0120627A5EB09AE72230" : 9223372036854775807,
+    "4A11A55B90FB8883D6FB898A1DF4F06D7040C7E9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90267D2B-07B4-41A8-B58C-9553A2871805",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "897FC997133EBD0DA8DF0120627A5EB09AE72230" : "",
+    "4A11A55B90FB8883D6FB898A1DF4F06D7040C7E9" : "MaheshSDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MaheshSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MaheshSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smkumar84\/MaheshSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A11A55B90FB8883D6FB898A1DF4F06D7040C7E9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smkumar84\/PickyPodMahesh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "897FC997133EBD0DA8DF0120627A5EB09AE72230"
+    }
+  ]
+}
